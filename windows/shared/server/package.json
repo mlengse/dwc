@@ -1,0 +1,17 @@
+{
+  "name": "pptr-docker",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "puppeteer-core": "^22.12.0"
+  }
+}
